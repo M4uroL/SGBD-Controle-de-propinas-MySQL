@@ -4,7 +4,7 @@ Este projeto implementa um banco de dados completo para controle de propinas (me
 
 ---
 
-##  Objetivo
+##  Objetivos 
 
 Fornecer uma base sólida e prática para a gestão financeira de propinas e controle acadêmico em uma instituição de ensino. Este sistema foi projetado para:
 
